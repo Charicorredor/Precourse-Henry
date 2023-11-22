@@ -1,2 +1,1 @@
-# Precourse-Henry
-Este es un repositorio de prueba para el modulo 2 del curso de henry
+esta es una prueba para clonar de github a mi escritorio local
